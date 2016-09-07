@@ -10,6 +10,8 @@ namespace app1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("för faaan ");
+            Console.ReadLine();
         }
     }
 }
